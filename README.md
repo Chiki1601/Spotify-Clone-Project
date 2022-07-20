@@ -9,7 +9,6 @@ I created this Project using HTMl, CSS and Javascript. I added Gujarati Playlist
 
 
 
-![5](https://user-images.githubusercontent.com/85725008/179955333-f366bd8d-bb90-4ddc-b602-394a2cb0f30a.jpg)
 
 
 #implementation
